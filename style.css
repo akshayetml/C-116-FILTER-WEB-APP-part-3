@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+
+
+h1{
+    font-size: 35px !important;
+    background-color: black !important;
+    letter-spacing: 10px;
+    border: none !important;
+    box-shadow: 4px 4px 50px rgb(255, 255, 255);
+}
+
+button:hover{
+    background-color:chartreuse;
+    width: 300px;
+    letter-spacing: 10px !important;
+    color: rgb(255, 0, 0);
+    
+}
+
+canvas {
+    border:2px dotted rgb(0, 200, 255);
+    margin-top: 90px;
+    border-radius: 200px;
+}
